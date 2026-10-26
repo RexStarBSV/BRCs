@@ -69,6 +69,7 @@
 * [Vault Sub-Accounts](./wallet/0208.md)
 * [1Color Minimal Resource Profile](./wallet/0209.md)
 * [Wallet Permission Prompt Liveness Contract](./wallet/0219.md)
+* [Deterministic, Order-Independent Coin Selection for Privacy Wallets](./wallet/0221.md)
 * [Wallet-Native Elliptic Curve Point Multiplication as a BRC-98 Module](./wallet/0229.md)
 * [User-Initiated Browser Permission Requests for Wallet Discovery](./wallet/0325.md)
 * [Wallet Failure Presentation](./wallet/0326.md)
@@ -149,7 +150,13 @@
 * [Consensus-Unique Name Tokens — Identity Binding and Verified Resolution](./tokens/0174.md)
 * [BSV-21 — Validity Proofs](./tokens/0176.md)
 * [Accumulating Right-of-Sale Listings and Purchase Orders](./tokens/0197.md)
+* [Authenticated 1Sat Inscription](./tokens/0217.md)
 * [Miner-Enforced Resale-Royalty Covenant Tokens (OP_PUSH_TX)](./tokens/0226.md)
+* [Bitcoin Native Tokens (BNT): Definition and Wallet Duties](./tokens/0251.md)
+* [Short Proofs for Bitcoin Native Tokens](./tokens/0252.md)
+* [Issuer-Permissioned Tokens (IPT): Countersigned Tokens and Items](./tokens/0253.md)
+* [Market Offers and Direct Swaps for Wallet Assets](./tokens/0254.md)
+* [Bitcoin Native Tokens (BNT): Compact Format](./tokens/0255.md)
 
 ## Overlays
 
@@ -175,6 +182,7 @@
 * [STEAK with POTATOES](./overlays/0196.md)
 * [SHIP and SLAP Root-Host Output Eviction Coordination](./overlays/0199.md)
 * [Signed On-Chain Reachability Manifest](./overlays/0211.md)
+* [Proving Service for Bitcoin Native Tokens, 1Sat Ordinals and BSV-21](./overlays/0257.md)
 
 ## Payments
 
@@ -193,6 +201,7 @@
 * [P2PKH Payments for HTTP 402](./payments/0166.md)
 * [1Color Offline Peer-to-Peer Payments](./payments/0175.md)
 * [Unlinkable Payments under the Identity Paradigm](./payments/0228.md)
+* [Cross-Chain Atomic Swaps Between Wallets](./payments/0256.md)
 
 ## Peer-to-Peer
 
@@ -218,6 +227,7 @@
 * [BRC-52 Encrypted Certificate Profile for Verifiable Credential Interoperability](./peer-to-peer/0203.md)
 * [Animated-QR Air-Gap Transport for Arbitrary Payloads (TKQR1)](./peer-to-peer/0225.md)
 * [Binary Encoding for the Message Relay Interface](./peer-to-peer/0231.md)
+* [Unsolicited Transaction Delivery to a BRC-169 Mailbox](./peer-to-peer/0232.md)
 * [Offline Issuer Identity Packages](./peer-to-peer/0248.md)
 * [Keyed Content and Conditional Key Release](./peer-to-peer/0369.md)
 
@@ -262,6 +272,7 @@
 * [Thoughts on UTXO-Driven Applications and Private Overlays](./opinions/0186.md)
 * [Thoughts on Declarative Stewardship](./opinions/0187.md)
 * [Thoughts on Identity, Privacy and Recovery on the Metanet](./opinions/0191.md)
+* [A Shared Schedule for Reducing Free Blockchain Index Coverage](./opinions/0234.md)
 
 ## State Machines
 
